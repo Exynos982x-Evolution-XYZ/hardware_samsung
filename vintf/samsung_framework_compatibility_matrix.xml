@@ -75,17 +75,6 @@
             <instance>default</instance>
         </interface>
     </hal>
-    <hal format="aidl" optional="false">
-        <name>vendor.samsung.hardware.keymint</name>
-        <interface>
-            <name>ISehKeyMintExtension</name>
-            <instance>default</instance>
-        </interface>
-        <interface>
-            <name>ISehKeyMintFactory</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
     <hal format="aidl" optional="true">
         <name>vendor.samsung.hardware.media.converter</name>
         <interface>
